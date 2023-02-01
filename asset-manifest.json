@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokedex-app/static/css/main.91016de5.css",
-    "main.js": "/pokedex-app/static/js/main.80cbcb6a.js",
-    "static/media/bckg-img.png": "/pokedex-app/static/media/bckg-img.bf80a1310863009b5b8a.png",
-    "static/media/pokedex.png": "/pokedex-app/static/media/pokedex.83b2bda441d77d1e4e95.png",
-    "index.html": "/pokedex-app/index.html",
-    "main.91016de5.css.map": "/pokedex-app/static/css/main.91016de5.css.map",
-    "main.80cbcb6a.js.map": "/pokedex-app/static/js/main.80cbcb6a.js.map"
+    "main.css": "/static/css/main.6df9b80d.css",
+    "main.js": "/static/js/main.868201c8.js",
+    "static/media/bckg-img.png": "/static/media/bckg-img.bf80a1310863009b5b8a.png",
+    "static/media/pokedex.png": "/static/media/pokedex.83b2bda441d77d1e4e95.png",
+    "index.html": "/index.html",
+    "main.6df9b80d.css.map": "/static/css/main.6df9b80d.css.map",
+    "main.868201c8.js.map": "/static/js/main.868201c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.91016de5.css",
-    "static/js/main.80cbcb6a.js"
+    "static/css/main.6df9b80d.css",
+    "static/js/main.868201c8.js"
   ]
 }
