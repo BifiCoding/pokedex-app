@@ -14,7 +14,7 @@ export default function App() {
         <Container>
         <Header />
           <Routes>
-            <Route exact path='/' element={<Homepage />} />
+            <Route path='/' element={<Homepage />} />
             <Route path='/pokemon/:id' element={<PokemonPage />} />
           </Routes>
         </Container>

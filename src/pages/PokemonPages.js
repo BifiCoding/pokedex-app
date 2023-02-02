@@ -172,21 +172,16 @@ export default function PokemonPage() {
                         <Card.Text>Shiny form</Card.Text>
                       </Col>
                     </Row>
-                    <Row
-                      className='mt-4'
-                      xs={12}
-                      sm={12}
-                      md={12}
-                      lg={12}
-                      xl={12}
-                    >
+                  </Row>
+                  <Row className='mt-4' xs={12} sm={12} md={12} lg={12} xl={12}>
+                    <Col>
                       <Card.Title
                         className='px-4 py-1 rounded'
                         style={{ border: '1px black solid' }}
                       >
                         <strong>Abilities</strong>
                       </Card.Title>
-                    </Row>
+                    </Col>
                     <Row className='text-center'>
                       {pokemonDetails.abilities.map(a => (
                         <Col
