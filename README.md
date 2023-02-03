@@ -7,4 +7,4 @@ The information is well-organized and presented in a clear and concise manner. T
 Each Pokémon class is distinguished by the background color under the nickname, for example, fire - red background color, water - blue, etc. On the Pokémon's personal page, you can see its characteristics such as: hp, attack, defense, speed. Special forms of Pokémon and their abilities  
 
 ## Technologies
-React v18, react hooks, axios/rest api, bootstrap, css.
+React v18, react hooks, axios, rest api, bootstrap, css.
