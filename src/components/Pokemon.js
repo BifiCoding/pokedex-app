@@ -7,6 +7,7 @@ export default function Pokemon({ data }) {
   const id = data.url.match(/\/(\d+)/)[1];
 
   const navigateTo = useNavigate();
+  
   const handleCardClick = () => {
     navigateTo(`/pokemon/${id}`);
   };
