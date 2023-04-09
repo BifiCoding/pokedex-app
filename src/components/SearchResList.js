@@ -13,7 +13,7 @@ const SearchResList = ({ result }) => {
   return (
     <div className='res-list' id='list'>
       {result.map((p) => (
-        <div key={p.url} onClick={() => handleCardClick(p.url)}>
+        <div key={p.url} onClick={() => handleCardClick(p.url)} className='my-1'>
           {p.name}
         </div>
       ))}
